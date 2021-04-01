@@ -7,6 +7,11 @@
     <string name="btn5">버튼5</string>
     <string name="text1">이건 텍스트뷰 입니다.</string>
     <string name="edit1">이건 에디트텍스트입니다.</string>
+    <string name="te1">TextView 연습 1</string>
+    <string name="te2">TextView 연습 1</string>
+    <string name="te3">TextView 연습 1</string>
+
+
     <string name="t1">textSize 속성</string>
     <string name="t2">textColor 속성</string>
     <string name="t3">text 속성</string>
