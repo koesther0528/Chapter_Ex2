@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Chapter_Ex2</string>
+    <string name="helllo">안녕하세요?</string>
+
     <string name="btn1">버튼1</string>
     <string name="btn2">버튼2</string>
     <string name="btn3">버튼3</string>
@@ -16,4 +18,5 @@
     <string name="t2">textColor 속성</string>
     <string name="t3">text 속성</string>
     <string name="t4">text 속성1</string>
+    <string name="t5">text 속성1 text 속성1 text 속성1 text 속성1 text 속성1</string>
 </resources>
